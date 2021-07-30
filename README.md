@@ -25,7 +25,8 @@ Configure config.json in React App
 ```
 
 Know how these values can be obtained in Medium Story.
-
+[Part 1] (https://umes4ever.medium.com/auth0-implementation-made-easy-with-spring-boot-and-react-part-1-95dbd4520cb2)
+[Part 2] (https://umes4ever.medium.com/auth0-implementation-made-easy-with-spring-boot-and-react-part-2-5f8c10130074)
 
 To run Spring Boot Application:
 
