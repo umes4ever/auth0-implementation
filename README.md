@@ -1,5 +1,4 @@
-# auth0-implementation
-Auth0 Implementation made easy with Spring Boot and React.
+# Auth0 Implementation made easy with Spring Boot and React.
 
 [Spring Boot Application](https://github.com/umes4ever/auth0-implementation/tree/master/auth0-spring-boot)
 
