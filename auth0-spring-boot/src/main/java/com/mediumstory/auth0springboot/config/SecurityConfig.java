@@ -38,7 +38,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	@Override
 	public void configure(HttpSecurity http) throws Exception {
 		 // @formatter:off
-		 http.authorizeRequests()
+		 http.cors().and().authorizeRequests()
 		 	.mvcMatchers("/auth0/public").permitAll()
 		 	.mvcMatchers("/auth0/private").authenticated()
 			.and()
