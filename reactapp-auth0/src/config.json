@@ -2,5 +2,5 @@
     "domain": "",
     "clientId": "",
     "audience": "",
-    "scope": "read:current_user"
+    "scope": "read:users"
 }
